@@ -1,1 +1,1 @@
-window.FFL_LEAGUES={"2145611332": {"name": "Film Room Degenerates", "seasons": [2024, 2026], "v": "aafe80ed94"}};
+window.FFL_LEAGUES={"2145611332": {"name": "Film Room Degenerates", "seasons": [2024, 2026], "v": "1afff6a3ad"}};
